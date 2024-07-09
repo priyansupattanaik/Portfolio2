@@ -12,7 +12,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={viberr}
-          link="https://bit.ly/thepandorabox/"
+          link="https://bit.ly/thepandorabox"
           h3="Arcade"
           p="Game"
         />
