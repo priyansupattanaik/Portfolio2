@@ -35,11 +35,7 @@ function Hero() {
         />
       </div>
       <div className={styles.info}>
-        <h1>
-          Priyansu
-          <br />
-          Pattanaik
-        </h1>
+        <h1>Priyansu Pattanaik</h1>
         <h2>Frontend Developer</h2>
         <span>
           <a href="https://github.com/priyansupattanaik" target="_blank">
