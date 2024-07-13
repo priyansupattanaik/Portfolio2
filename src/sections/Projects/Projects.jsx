@@ -12,9 +12,15 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={viberr}
-          link="https://bit.ly/thepandorabox"
+          link="https://thepandorabox.netlify.app"
           h3="Arcade"
           p="Game"
+        />
+        <ProjectCard
+          src={freshBurger}
+          link="https://theauraai.netlify.app"
+          h3="Aura AI"
+          p="Chat Bot"
         />
       </div>
     </section>
